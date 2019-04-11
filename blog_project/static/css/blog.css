@@ -1,0 +1,37 @@
+#pcount{
+  font-size: 30px;
+  color: red;
+  font-weight: 900;
+}
+.content{
+  width: 60%;
+  float: left;
+  padding: 0 0 0 30px;
+}
+
+.sidebar{
+  width: 40%;
+  padding: 10px;
+  float: right;
+  border-radius: 25px;
+}
+
+a{
+  color: #2b2bdb;
+}
+#date{
+  color: #ea35a8;
+}
+#ch{
+  color:#ea35a8;
+}
+body{
+  background: #d9dce0;
+  color: #000000;
+}
+h1{
+  font-weight: 900;
+}
+#ptitle{
+  font-weight: 700;
+}
